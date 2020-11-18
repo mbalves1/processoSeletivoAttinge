@@ -1,0 +1,97 @@
+@media (max-width:800px){
+    .banner {
+        width: 100%;
+    }
+    .cards,
+    .squareSection {
+        display:flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+    nav {
+        display:none;
+    }
+
+    .square {
+        width: 80%;
+        height: 283px;
+        margin:33px ;
+        margin-bottom: 133px;
+     }
+
+     /*    Menu hamburgeuer     **/
+
+     .menuClose,
+     .menuHamburg {
+        width: 35px;
+     }
+
+     .menuHamburg {
+         display: block;
+         
+     }
+
+     .mainNav{
+         display:flex;
+         flex-direction:column;
+        width: 100%;
+        align-items: center;
+        position: fixed;
+        top: 10vh;;
+        padding: 35px;
+        margin-top: 139px;
+        color: white;
+        height: 100vh;
+        position: fixed;
+        width: 100%;
+        top: -71px;
+        align-items: center;
+        text-align: center;
+        display: flex;
+        padding: 32%;
+        padding-top:229px;
+        transition:all 0.4s;
+        left:100%;
+       
+     }
+     ul {
+        display: flex;
+        flex-direction: column;
+        background: #08083A;
+        height: 22vh;
+        width: 100%;
+        position: fixed;
+        top: 14vh;
+        padding:20px;
+    }
+    .hide {
+        display:none;
+    }
+    .show{
+        left:0;
+    }
+
+    
+}
+
+@media (max-width:479px){
+    .cards,
+    .squareSection {
+        display:flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+    nav {
+        display:none;
+    }
+    .square {
+        width: 80%;
+        height: 283px;
+        margin:33px ;
+        margin-bottom: 133px;
+     }
+
+
+}

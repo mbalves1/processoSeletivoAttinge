@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162.119" height="70.117" viewBox="0 0 162.119 70.117">
+  <g id="Group_4" data-name="Group 4" transform="translate(-107.572 -184.593)">
+    <path id="Path_1" data-name="Path 1" d="M263.551,254.356H158.138a19.384,19.384,0,0,1-17.047-28.613h0a19.385,19.385,0,0,1,17.047-10.155H263.551A19.385,19.385,0,0,1,280.6,244.2h0A19.384,19.384,0,0,1,263.551,254.356Z" transform="translate(-13.272 -13.204)" fill="#e9eef2"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(220.312 212.441)">
+      <path id="Path_2" data-name="Path 2" d="M321.951,236.809a3.03,3.03,0,1,1-2.286-3.624A3.029,3.029,0,0,1,321.951,236.809Z" transform="translate(-309.091 -233.109)" fill="#ff9000"/>
+      <path id="Path_3" data-name="Path 3" d="M307.689,240.739a3.03,3.03,0,1,1-3.624,2.286A3.03,3.03,0,0,1,307.689,240.739Z" transform="translate(-303.989 -236.328)" fill="#08083a"/>
+      <path id="Path_4" data-name="Path 4" d="M311.618,255a3.03,3.03,0,1,1,2.286,3.624A3.03,3.03,0,0,1,311.618,255Z" transform="translate(-307.207 -241.43)" fill="#ff017b"/>
+      <path id="Path_5" data-name="Path 5" d="M325.881,251.072a3.03,3.03,0,1,1,3.624-2.286A3.029,3.029,0,0,1,325.881,251.072Z" transform="translate(-312.31 -238.212)" fill="#17d7e6"/>
+    </g>
+    <text id="AMING" transform="translate(175.074 248.647)" fill="#08083a" font-size="23" font-family="Montserrat-ExtraBoldItalic, Montserrat" font-weight="800" font-style="italic"><tspan x="0" y="0">AMING</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(107.572 184.593)">
+      <g id="Group_2" data-name="Group 2">
+        <path id="Path_6" data-name="Path 6" d="M167.064,230.959l-6.232,10.79a4.043,4.043,0,0,1-3.512,2.03H134.137a4.055,4.055,0,0,1-3.512-2.03l-11.591-20.067a4.082,4.082,0,0,1,0-4.06L131.053,196.8a2.579,2.579,0,0,1,2.233-1.289h24.882a2.585,2.585,0,0,1,2.239,1.293l7.439,12.887h12.617l-2.061-3.562-8.1-14.048a15.038,15.038,0,0,0-12.982-7.49H134.137a15.034,15.034,0,0,0-12.972,7.49l-11.592,20.077a15.014,15.014,0,0,0,0,14.982l11.592,20.077a15.034,15.034,0,0,0,12.972,7.491H157.32a15.039,15.039,0,0,0,12.982-7.491l8.1-14.048,1.279-2.213Z" transform="translate(-107.572 -184.593)" fill="#08083a"/>
+      </g>
+    </g>
+    <path id="Path_7" data-name="Path 7" d="M221.485,248.729H178.993A4.576,4.576,0,0,1,174.956,242h0a4.577,4.577,0,0,1,4.037-2.421h42.492a4.576,4.576,0,0,1,4.037,6.731h0A4.577,4.577,0,0,1,221.485,248.729Z" transform="translate(-28.475 -23.424)" fill="#ff017b"/>
+  </g>
+</svg>
